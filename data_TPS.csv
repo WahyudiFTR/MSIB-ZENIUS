@@ -1,55 +1,55 @@
 Tahun,P,Provinsi,Kabupaten/Kota,Sampahmasuk (ton/thn),Sampahmasuk Landfill (ton/thn),Sampah Organikterolah (ton/thn),Sampah An-Organikterolah (ton/thn)
-2022,2,Jawa Timur,Kab. Pacitan,"13,756.85","13,690.95",1.03,0.00
-2022,2,Jawa Timur,Kab. Ponorogo,"83,950.00","81,395.00","1,095.00",0.00
-2022,2,Jawa Timur,Kab. Ponorogo,"83,950.00","81,395.00","1,095.00",0.00
-2022,2,Jawa Timur,Kab. Trenggalek,"57,305.00","52,195.00","2,555.00","1,460.00"
-2022,2,Jawa Timur,Kab. Trenggalek,"57,305.00","52,195.00","2,555.00","1,460.00"
-2022,2,Jawa Timur,Kab. Tulungagung,"41,975.00","33,799.00","2,956.50",0.00
-2022,2,Jawa Timur,Kab. Tulungagung,"41,975.00","33,799.00","2,956.50",0.00
-2022,2,Jawa Timur,Kab. Kediri,"44,356.63","40,341.63","1,277.50","1,825.00"
-2022,2,Jawa Timur,Kab. Kediri,"44,356.63","40,341.63","1,277.50","1,825.00"
-2022,2,Jawa Timur,Kab. Malang,"38,325.00","38,325.00",0.00,0.00
-2022,2,Jawa Tengah,Kab. Cilacap,"14,742.35","14,742.35",0.00,0.00
-2022,2,Jawa Tengah,Kab. Cilacap,"14,742.35","14,742.35",0.00,0.00
-2022,2,Jawa Tengah,Kab. Cilacap,"17,297.35","17,297.35",0.00,0.00
-2022,2,Jawa Tengah,Kab. Cilacap,"45,248.00","45,248.00",0.00,0.00
-2022,2,Jawa Tengah,Kab. Cilacap,"17,297.35","17,297.35",0.00,0.00
-2022,2,Jawa Tengah,Kab. Cilacap,"45,248.00","45,248.00",0.00,0.00
-2022,2,Jawa Tengah,Kab. Banyumas,"58,600.75",0.00,"33,050.75","25,550.00"
-2022,2,Jawa Tengah,Kab. Banyumas,"58,600.75",0.00,"33,050.75","25,550.00"
-2022,2,Jawa Tengah,Kab. Purbalingga,"40,880.00","40,542.01",0.00,337.99
-2022,2,Jawa Tengah,Kab. Kebumen,"28,302.10","28,278.74",0.00,0.00
-2022,2,D.I. Yogyakarta,Kab. Kulon Progo,"11,680.00","11,680.00",0.00,0.00
-2022,2,D.I. Yogyakarta,Kab. Kulon Progo,"11,680.00","11,680.00",0.00,0.00
-2022,2,D.I. Yogyakarta,Kab. Gunungkidul,"18,286.50","17,921.50",73.00,182.50
-2022,2,D.I. Yogyakarta,Kab. Gunungkidul,"18,286.50","17,921.50",73.00,182.50
-2022,2,Jawa Barat,Kab. Bandung,"146,676.44","146,676.44",0.00,0.00
-2022,2,Jawa Barat,Kab. Bandung,"146,676.44","146,676.44",0.00,0.00
-2022,2,Jawa Barat,Kab. Garut,"81,483.33","81,483.33",0.00,0.00
-2022,2,Jawa Barat,Kab. Garut,"81,483.33","81,483.33",0.00,0.00
-2022,2,Jawa Barat,Kab. Ciamis,"54,093.00","44,165.00","4,015.00",73.00
-2022,2,Jawa Barat,Kab. Ciamis,"54,093.00","44,165.00","4,015.00",73.00
-2022,2,Jawa Barat,Kab. Kuningan,"113,515.00","24,820.00","39,055.00","44,165.00"
-2022,2,Jawa Barat,Kab. Kuningan,"113,515.00","24,820.00","39,055.00","44,165.00"
+2022,2,Jawa Timur,Kab. Pacitan,13756.85,13690.95,1.03,0.00
+2022,2,Jawa Timur,Kab. Ponorogo,83950.00,81395.00,1095.00,0.00
+2022,2,Jawa Timur,Kab. Ponorogo,83950.00,81395.00,1095.00,0.00
+2022,2,Jawa Timur,Kab. Trenggalek,57305.00,52195.00,2555.00,1460.00
+2022,2,Jawa Timur,Kab. Trenggalek,57305.00,52195.00,2555.00,1460.00
+2022,2,Jawa Timur,Kab. Tulungagung,41975.00,33799.00,2956.50,0.00
+2022,2,Jawa Timur,Kab. Tulungagung,41975.00,33799.00,2956.5,0.00
+2022,2,Jawa Timur,Kab. Kediri,44356.63,40341.63,1277.5,1825.00
+2022,2,Jawa Timur,Kab. Kediri,44356.63,40341.63,1277.5,1825.00
+2022,2,Jawa Timur,Kab. Malang,38325.00,38325.00,0.00,0.00
+2022,2,Jawa Tengah,Kab. Cilacap,14742.35,14742.35,0.00,0.00
+2022,2,Jawa Tengah,Kab. Cilacap,1474.35,14742.35,0.00,0.00
+2022,2,Jawa Tengah,Kab. Cilacap,17297.35,17297.35,0.00,0.00
+2022,2,Jawa Tengah,Kab. Cilacap,45248.00,45248.00,0.00,0.00
+2022,2,Jawa Tengah,Kab. Cilacap,17297.35,17297.35,0.00,0.00
+2022,2,Jawa Tengah,Kab. Cilacap,45248.00,45248.00,0.00,0.00
+2022,2,Jawa Tengah,Kab. Banyumas,58600.75,0.00,33050.75,25550.00
+2022,2,Jawa Tengah,Kab. Banyumas,58600.75,0.00,33050.75,25550.00
+2022,2,Jawa Tengah,Kab. Purbalingga,40880.00,40542.01,0.00,337.99
+2022,2,Jawa Tengah,Kab. Kebumen,28302.1,28278.74,0.00,0.00
+2022,2,D.I. Yogyakarta,Kab. Kulon Progo,11680.00,11680.00,0.00,0.00
+2022,2,D.I. Yogyakarta,Kab. Kulon Progo,11680.00,11680.00,0.00,0.00
+2022,2,D.I. Yogyakarta,Kab. Gunungkidul,18286.5,17921.5,73.00,182.5
+2022,2,D.I. Yogyakarta,Kab. Gunungkidul,18286.5,17921.5,73.00,182.5
+2022,2,Jawa Barat,Kab. Bandung,146676.44,146676.44,0.00,0.00
+2022,2,Jawa Barat,Kab. Bandung,146676.44,146676.44,0.00,0.00
+2022,2,Jawa Barat,Kab. Garut,8148.33,81483.33,0.00,0.00
+2022,2,Jawa Barat,Kab. Garut,81483.33,81483.33,0.00,0.00
+2022,2,Jawa Barat,Kab. Ciamis,54093.00,44165.00,4015.00,73.00
+2022,2,Jawa Barat,Kab. Ciamis,54093.00,44165.00,4015.00,73.00
+2022,2,Jawa Barat,Kab. Kuningan,113515.00,24820.00,39055.00,44165.00
+2022,2,Jawa Barat,Kab. Kuningan,113515.00,24820.00,39055.00,44165.00
 2022,2,Jawa Barat,Kab. Sumedang,547.50,529.25,0.00,0.00
-2022,2,Jawa Barat,Kab. Sumedang,"47,815.00","47,723.75",0.00,0.00
-2022,2,DKI Jakarta,Kab. Adm. Kep. Seribu,"4,367.96","4,367.96",0.00,0.00
-2022,2,DKI Jakarta,Kab. Adm. Kep. Seribu,"4,367.96","4,367.96",0.00,0.00
-2022,2,DKI Jakarta,Kota Adm. Jakarta Pusat,"229,159.18","229,159.18",0.00,0.00
-2022,2,DKI Jakarta,Kota Adm. Jakarta Utara,"367,265.19","367,265.19",0.00,0.00
-2022,2,DKI Jakarta,Kota Adm. Jakarta Barat,"543,731.97","543,731.97",0.00,0.00
-2022,2,DKI Jakarta,Kota Adm. Jakarta Selatan,"525,366.39","525,366.39",0.00,0.00
-2022,2,DKI Jakarta,Kota Adm. Jakarta Timur,"622,330.48","622,330.48",0.00,0.00
-2021,2,DKI Jakarta,Kota Adm. Jakarta Pusat,"219,405.14","219,405.14",0.00,0.00
-2021,2,DKI Jakarta,Kota Adm. Jakarta Utara,"367,759.40","367,759.40",0.00,0.00
-2021,2,DKI Jakarta,Kota Adm. Jakarta Barat,"544,015.48","544,015.48",0.00,0.00
-2022,2,Banten,Kab. Lebak,"8,030.00","7,847.50",0.00,0.00
-2022,2,Banten,Kab. Lebak,"32,850.00","32,393.75",219.00,0.00
-2022,2,Banten,Kab. Lebak,"8,030.00","7,847.50",0.00,0.00
-2022,2,Banten,Kab. Lebak,"32,850.00","32,393.75",219.00,0.00
-2022,2,Banten,Kab. Tangerang,"498,590.00","498,590.00",0.00,0.00
-2022,2,Banten,Kab. Tangerang,"498,590.00","498,590.00",0.00,0.00
-2022,2,Banten,Kab. Serang,"30,752.09","30,752.09",0.00,0.00
-2022,2,Banten,Kota Tangerang,"443,785.24","443,785.24",0.00,0.00
-2022,2,Banten,Kota Cilegon,"66,430.00","66,065.00",0.00,0.00
-2022,2,Banten,Kota Serang,"119,514.51","47,805.84","21,512.59","23,902.90"
+2022,2,Jawa Barat,Kab. Sumedang,47815.00,47723.75,0.00,0.00
+2022,2,DKI Jakarta,Kab. Adm. Kep. Seribu,4367.96,4367.96,0.00,0.00
+2022,2,DKI Jakarta,Kab. Adm. Kep. Seribu,4367.96,4367.97,0.00,0.00
+2022,2,DKI Jakarta,Kota Adm. Jakarta Pusat,229159.18,229159.18,0.00,0.00
+2022,2,DKI Jakarta,Kota Adm. Jakarta Utara,367265.19,367265.19,0.00,0.00
+2022,2,DKI Jakarta,Kota Adm. Jakarta Barat,543731.97,543731.97,0.00,0.00
+2022,2,DKI Jakarta,Kota Adm. Jakarta Selatan,525366.39,525366.39,0.00,0.00
+2022,2,DKI Jakarta,Kota Adm. Jakarta Timur,622330.48,622330.48,0.00,0.00
+2021,2,DKI Jakarta,Kota Adm. Jakarta Pusat,219405.14,219405.14,0.00,0.00
+2021,2,DKI Jakarta,Kota Adm. Jakarta Utara,367759.4,367759.4,0.00,0.00
+2021,2,DKI Jakarta,Kota Adm. Jakarta Barat,544015.48,544015.48,0.00,0.00
+2022,2,Banten,Kab. Lebak,8030.00,7847.5,0.00,0.00
+2022,2,Banten,Kab. Lebak,32850.00,32393.75,219.00,0.00
+2022,2,Banten,Kab. Lebak,8030.00,7847.5,0.00,0.00
+2022,2,Banten,Kab. Lebak,32850.00,32393.75,219.00,0.00
+2022,2,Banten,Kab. Tangerang,498590.00,498590.00,0.00,0.00
+2022,2,Banten,Kab. Tangerang,498590.00,498590.00,0.00,0.00
+2022,2,Banten,Kab. Serang,30752.09,30752.09,0.00,0.00
+2022,2,Banten,Kota Tangerang,443785.24,443785.24,0.00,0.00
+2022,2,Banten,Kota Cilegon,66430.00,66065.00,0.00,0.00
+2022,2,Banten,Kota Serang,119514.51,47805.84,21512.59,23902.9
